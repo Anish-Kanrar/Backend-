@@ -28,8 +28,5 @@ CREATE TABLE user(
 );
 
 INSERT INTO VALUES
-(1,"Adam","adam@yahoo.in",123,145),
-(2,"bob"
-(),
-(),
+(1,"Adam","adam@yahoo.in",123,145);
 
