@@ -16,10 +16,10 @@ CREATE TABLE  user(
 INSERT INTO user
 (id, age, name, email, followers, following)
 VALUES
-(1, 14, "adam", "adam@ahgoo.in", 123, 145),
-(2, 15, "bob", "bob@ahgoo.in", 233, 145),
-(3, 16, "casey", "casey@gmail.com", 523, 145),
-(4, 17, "donald", "donald@gmail.com", 129, 145);
+(1, 14, "adam", "adam@ahgoo.in", 123, 245),
+(2, 15, "bob", "bob@ahgoo.in", 233, 195),
+(3, 16, "casey", "casey@gmail.com", 523, 155),
+(4, 17, "donald", "donald@gmail.com", 129, 445);
 
 SELECT * FROM user
 WHERE followers <= 200;
