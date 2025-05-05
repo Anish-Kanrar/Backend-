@@ -22,7 +22,7 @@ VALUES
 (4, 17, "donald", "donald@gmail.com", 129, 145);
 
 SELECT * FROM user
-WHERE followers <= 200
+WHERE followers <= 200;
 
 
 CREATE TABLE Posts(
