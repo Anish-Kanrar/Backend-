@@ -1,5 +1,6 @@
 CREATE DATABASE IF NOT EXISTS instagram;
 
+
 USE instagram;
 
 CREATE TABLE  user(
